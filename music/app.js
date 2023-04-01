@@ -6,84 +6,84 @@ const songs = [
     {
         id:'1',
         songName:` Gulabi Aankhe Jo Teri  <br>
-        <div class="subtitle">Alan Walker</div>`,
+        <div class="subtitle">The Train 1970</div>`,
         poster: "img/1.jpg"
     },
     {
         id:'2',
         songName:` Neele Neele Ambar Par <br>
-        <div class="subtitle">Alan Walker</div>`,
+        <div class="subtitle">Kalaakar</div>`,
         poster: "img/2.jpg"
     },
     // all object type 
     {
         id:"3",
-        songName: `RimJhim Gire Saavan<br><div class ="subtitle"> Daniel Levi</div>`,
+        songName: `RimJhim Gire Saavan<br><div class ="subtitle">Manzil</div>`,
         poster: "img/3.jpg",
     },
     {
         id:"4",
-        songName: `Yaadon Ki Barat<br><div class="subtitle">Mortals</div>`,
+        songName: `Yaadon Ki Barat<br><div class="subtitle">Yaadon ki barat</div>`,
         poster: "img/4.jpg",
     },
     {
         id:"5",
-        songName: `Likhe Jo Khat Tujhe<br><div class="subtitle">Ertugrul</div>`,
+        songName: `Likhe Jo Khat Tujhe<br><div class="subtitle">Kanyaadan</div>`,
         poster: "img/5.jpg",
     },
     {
         id:"6",
-        songName: `Bheegi Bheegi Raato Mein <br><div class="subtitle">Electro</div>`,
+        songName: `Bheegi Bheegi Raato Mein <br><div class="subtitle">Ajnabee</div>`,
         poster: "img/6.jpg",
     },
     {
         id:"7",
-        songName: `Ek Din Bik Jayega Mati <br><div class="subtitle">Tamashaa</div>`,
+        songName: `Ek Din Bik Jayega Mati <br><div class="subtitle">Dharam Karam</div>`,
         poster: "img/7.jpg",
     },
     {
         id:"8",
-        songName: `Dilbar Mere Kab Tak <br><div class="subtitle">Neha Kakker</div>`,
+        songName: `Dilbar Mere Kab Tak <br><div class="subtitle">Satte pe satta</div>`,
         poster: "img/8.jpg",
     },
     {
         id:"9",
-        songName: `Aye Zindagi Gale <br><div class="subtitle">Satyameva Jayate</div>`,
+        songName: `Aye Zindagi Gale <br><div class="subtitle">Sadma</div>`,
         poster: "img/9.jpg",
     },
     {
         id:"10",
-        songName: `O Mere Dil Ke Chain<br><div class="subtitle">Luka Chuppi</div>`,
+        songName: `O Mere Dil Ke Chain<br><div class="subtitle">Mere Jeevan saathi</div>`,
         poster: "img/10.jpg",
     },
     {
         id:"11",
-        songName: `Panna Ki Tamanna <br><div class="subtitle">Street Dancer 3D</div>`,
+        songName: `Panna Ki Tamanna <br><div class="subtitle">Heera Panna</div>`,
         poster: "img/11.jpg",
     },
     {
         id:"12",
-        songName: `Tu Is Tarah Se Meri <br><div class="subtitle">Putt Jatt Da</div>`,
+        songName: `Tu Is Tarah Se Meri <br><div class="subtitle">Aap to aise na the</div>`,
         poster: "img/12.jpg",
     },
     {
         id:"13",
-        songName: `Mere Jeevan Saathi <br><div class="subtitle">Atif Aslam</div>`,
+        songName: `Mere Jeevan Saathi <br><div class="subtitle">Mere Jeevan Saathi</div>`,
         poster: "img/13.jpg",
     },
     {
         id:"14",
-        songName: `Aaja Piya Tohe Pyaar <br><div class="subtitle">Dhvani Bhanushali</div>`,
+        songName: `Aaja Piya Tohe Pyaar <br><div class="subtitle">Baharo Ke sapne</div>`,
         poster: "img/14.jpg",
     },
     {
         id:"15",
-        songName: `Aise Na Mujhe Tum <br><div class="subtitle">Jubin Nautiyal</div>`,
+        songName: `Aise Na Mujhe Tum <br><div class="subtitle">Darling Darling</div>`,
         poster: "img/15.jpg",
     },
     {
         id:"16",
-        songName: `Choodi Nahi Hai Mera <br><div class="subtitle">Jubin Nautiyal</div>`,
+        songName: `Choodi Nahi Hai Mera <br><div class="subtitle">Gambler</div>`,
         poster: "img/16.jpg",
     },
 ]
